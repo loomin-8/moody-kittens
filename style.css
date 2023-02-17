@@ -178,6 +178,45 @@ button.btn-special:hover{
   color: var(--danger);
 }
 
+.image-wrapper {
+  position: relative;
+  width: 30%;
+  margin-left: 1.666%;
+  margin-right: 1.666%;
+  margin-top: 2em;
+  background-color:#646464;;
+  height: 400px;
+}
+
+.name {
+  position: relative;
+  color:#b7f12e;
+  top: 73%;
+  padding-left: 5%;
+  bottom: 10%;
+}
+
+.affection {
+  background-color: #3a3838;
+  color: #e0d9d9;
+  position: relative;
+  padding-left: 5%;
+  top: 64%;
+}
+
+.action {
+  position: relative;
+  left: 64%;
+  top: 48%;
+  
+}
+
+.overlay {
+  position: absolute;
+  display: block;
+  left: 11%;
+}
+
 .d-flex{
   display: flex;
   align-items: center;
